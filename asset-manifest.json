@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.860d71fe.css",
+    "main.js": "/static/js/main.c3aa16a2.js",
+    "static/js/787.b6ae996f.chunk.js": "/static/js/787.b6ae996f.chunk.js",
+    "static/media/Zara.png": "/static/media/Zara.94c13a4c0a0c07aa310f.png",
+    "static/media/youtube.png": "/static/media/youtube.b783cf858174ccfe6a43.png",
+    "static/media/firstCry.png": "/static/media/firstCry.3619ba3462b73c66690a.png",
+    "static/media/ketto.png": "/static/media/ketto.96932a294b61ea4fb2fe.png",
+    "static/media/hotstart.png": "/static/media/hotstart.090dac90778c85633690.png",
+    "static/media/techTrove.png": "/static/media/techTrove.c24bf2f8fad9a2941de6.png",
+    "static/media/nordstrom_Screenshot.png": "/static/media/nordstrom_Screenshot.cd2143b1c524ea249f83.png",
+    "static/media/name_logo.png": "/static/media/name_logo.25e1845bd15623abba98.png",
+    "static/media/gitstatus.png": "/static/media/gitstatus.7224f6ba1b5191ea833a.png",
+    "index.html": "/index.html",
+    "main.860d71fe.css.map": "/static/css/main.860d71fe.css.map",
+    "main.c3aa16a2.js.map": "/static/js/main.c3aa16a2.js.map",
+    "787.b6ae996f.chunk.js.map": "/static/js/787.b6ae996f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.860d71fe.css",
+    "static/js/main.c3aa16a2.js"
+  ]
+}
